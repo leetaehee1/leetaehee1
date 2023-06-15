@@ -1,11 +1,8 @@
-### Hi there 👋
-
-<!--
-**leetaehee1/leetaehee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ Hello. I'm Lee taehee.
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m Student
+<!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +11,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20I'm%20Lee%20taehee&fontSize=70) -->
+
+
+| <a href="https://github.com/leetaehee1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leetaehee1&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="leetaehee1's github stats" /></a> | <a href="https://github.com/leetaehee1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leetaehee1&layout=compact&theme=vue&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
