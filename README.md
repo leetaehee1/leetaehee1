@@ -1,5 +1,4 @@
  Hello. I'm Lee taehee.
-Here are some ideas to get you started:
 
 - 🔭 I’m Student
 <!--
@@ -17,4 +16,3 @@ Here are some ideas to get you started:
 | <a href="https://github.com/leetaehee1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=leetaehee1&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="leetaehee1's github stats" /></a> | <a href="https://github.com/leetaehee1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leetaehee1&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
