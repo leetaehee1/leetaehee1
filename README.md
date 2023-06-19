@@ -8,8 +8,8 @@
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
  <img src="https://img.shields.io/badge/Python-0099ff?style=flat&logo=Python&logoColor=white" />
-</div>   
-
+</div>  
+<br/>
 <div align=center>
  <p>🌱 I tried</p>
  <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=VisualStudio&logoColor=white" />   
