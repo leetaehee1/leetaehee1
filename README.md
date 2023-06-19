@@ -17,6 +17,8 @@
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
  <img src="https://img.shields.io/badge/Pycharm-000000?style=flat&logo=Pycharm&logoColor=white" />
 </div>
+<br/>
+<br/>   
 
 **Lee taehee**
 - 🌱 I’m Student
