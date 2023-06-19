@@ -20,10 +20,13 @@
 </div>
 <br/>
 <br/>   
+<div align=center>
+	
+### ***Lee taehee***   
+ 🌱 I’m Student   
+ 🌱 I’m currently learning to be a game developer
 
-**Lee taehee**
-- 🌱 I’m Student
-- 🌱 I’m currently learning to be a game developer
+</div>
 <!--
 - 🔭
 - 🌱 I’m currently learning ...
